@@ -65,7 +65,7 @@ This project has been a wonderful creative exercise and technical challenge. I'v
 I also had a chance to work with capturing and stitching HDR panoramas, and game audio/music production.
 
 SteamVR Home uses lua for scripting, but it's hard to organize large projects with lua. I wanted to be able to write complex game systems without the burden of maintaining a lua codebase, so I decided to use a TypeScript transpiler called [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua).
-This gave me the ability to write type-safe game scripts in TypeScript and have it automatically the correct lua code.
+This gave me the ability to write type-safe game scripts in TypeScript and have it automatically generate the correct lua code.
 This involved reading the lua documentation and writing TypeScript declarations for all the types.
 So far it has worked without much difficulty and has made scripting incredibly easy. The game logic is far more strucutred in TypeScript than it would be if I had to write plain lua.
 
