@@ -4,7 +4,7 @@ I'm Spencer. I sometimes make stuff.
 
 Most of my professional experience is working as a software engineer building full-stack web applications, but I also have a wide range of skills beyond that. Here you will find a list of professional/hobbyist projects that I've contributed to or authored.
 
-## Professional Roles
+# Professional Roles
 
 ### [PayNow](https://paynow.gg) (April 2022 - June 2023)
 
@@ -53,7 +53,7 @@ I also had to build some features that targeted Internet Explorer 7. Writing Jav
 During this time I completed various small projects for different companies, mostly in the gaming space.
 Usually involved full-stack application development with React/Node.JS.
 
-## Hobbyist Projects
+# Hobbyist Projects
 
 ### [BioShock: Infinite in VR](https://steamcommunity.com/sharedfiles/filedetails/?id=2952477736) (2023)
 
