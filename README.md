@@ -14,9 +14,11 @@ Most of my professional experience is working as a software engineer building fu
 PayNow is a service that fully facilitates hosting an online store and accepting payments for game servers. It integrates multiple pay-in providers and a pay-out provider to build a tax compliant merchant of record (MoR) service supporting
 multiple currencies. As the lead engineer, I was responsible for designing and building the entire project from scratch.
 
-The frontend is React with TypeScript, and uses Tailwind for styling. Most of the frontend work was handled by the very talented [@m0uka](https://github.com/m0uka).
+The frontend is React with TypeScript, and uses Tailwind for styling. Most of the frontend work was handled by the very talented [Lukas Moucka](https://github.com/m0uka).
 The backend is written in Go and has 15+ microservice components that use event-driven architecture to communicate.
 Other tools used on this project include: Postgres, NATS, Redis, ClickHouse, Protobuf, Grafana, OpenTelemetry, Kubernetes, GitLab CI, and a lot more.
+
+This is by far the most challening project I've contributed to due to its scope and responsibilities.
 
 ### [Rusticated](https://rusticated.com) (April 2018 - `+inf`)
 <img src="https://github.com/SpencerTorres/spencertorres/assets/28887171/c8c0a1c0-8f81-4279-a312-8df470251351" width=500px>
