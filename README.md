@@ -39,8 +39,8 @@ I also designed a special binary protocol for returning this data to the browser
 This is just one of the many fascinating problems that I've had to tackle while working at Rusticated.
 
 ### [Florida Blue](https://floridablue.com) (June 2019 - May 2021)
-Blue Cross Blue Shield of Florida, a health insurance provider.
-My team was responsible for handling the millions of claims that fail to process automatically.
+Florida Blue is a health insurance provider.
+My team was responsible for handling the millions of claims that failed to process automatically.
 
 Our main project was a React SPA backed by dozens of Java + OracleDB components.
 I had the chance to introduce some "newer" technologies such as Node.JS, Redis, Go, and GitLab CI.
