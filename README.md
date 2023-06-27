@@ -78,7 +78,7 @@ I am always tinkering. Here's an example of some stuff I've tinkered with recent
 - Multiplayer Jigsaw Puzzle browser game. Built with Pixi JS, Node.JS and socket.io.
 - A bunch of other small projects/researched topics.
 
-### [SpencerTorres.com](https://SpencerTorres.com]) (2018)
+### [SpencerTorres.com](https://SpencerTorres.com) (2018)
 <img src="https://github.com/SpencerTorres/spencertorres/assets/28887171/e08bc69f-155b-4609-9f8b-92e59515cb21" width=500px>
 
 My personal website, which isn't used for anything important. Built with React and uses the Oatload project for loading blog posts.
