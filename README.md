@@ -20,7 +20,7 @@ Other tools used on this project include: Postgres, NATS, Redis, ClickHouse, Pro
 
 This is by far the most challening project I've contributed to due to its scope and responsibilities.
 
-### [Rusticated](https://rusticated.com) (April 2018 - `+inf`)
+### [Rusticated](https://rusticated.com) (June 2021 - April 2022)
 <img src="https://github.com/SpencerTorres/spencertorres/assets/28887171/c8c0a1c0-8f81-4279-a312-8df470251351" width=500px>
 
 Rusticated is a network of servers for the game [Rust](https://rust.facepunch.com).
