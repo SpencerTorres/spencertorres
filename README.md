@@ -6,7 +6,7 @@ Most of my professional experience is working as a software engineer building fu
 
 # Professional Roles
 
-### [PayNow](https://paynow.gg) (April 2022 - June 2023)
+### [PayNow](https://paynow.gg) (April 2022 - July 2023)
 
 <img src="https://github.com/SpencerTorres/spencertorres/assets/28887171/9820fb6e-8a7e-48a4-845d-35ce50333196" width=500px>
 
